@@ -1,0 +1,7 @@
+# Versão web (Streamlit). O tkinter não é usado no servidor.
+streamlit>=1.36
+numpy>=1.24
+matplotlib>=3.7
+pandas
+# para ler talhão e área com problema em shapefile (.zip)
+pyshp>=2.3
